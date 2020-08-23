@@ -3,3 +3,8 @@
 
 # Ada Library Information
 *.ali
+
+#
+*.laravel-mix --save-dev
+*.npm install cross-env --save-dev
+*.npm install tailwind
